@@ -8,6 +8,14 @@
     "strict": true,
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
+    "paths": {
+      "lawn-wizard-core": [
+        "dist/lawn-wizard-core"
+      ],
+      "lawn-wizard-main": [
+        "dist/lawn-wizard-main"
+      ]
+    },
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
